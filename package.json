@@ -28,7 +28,7 @@
     }
     , "devDependencies": {
           "jasmine-node": ""
-        , "zombie": "1.2.x"
+        , "zombie": "6.1.x"
         , "supervisor": ""
         , "jade": ""
         , "stylus": ""
